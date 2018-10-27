@@ -8,7 +8,7 @@
  * such as when you deploy to a server, or a PaaS like Heroku.
  *
  * For example:
- *   => `node app.js`
+ *   => `noddddde app.js`
  *   => `npm start`
  *   => `forever start app.js`
  *   => `node debug app.js`
